@@ -3,8 +3,6 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ansango)
 [![Linkedin Badge](https://img.shields.io/badge/-Anibal%20Santos-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/ansango/)](https://www.linkedin.com/in/ansango/) [![Gmail Badge](https://img.shields.io/badge/-anibalsantosgo-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:anibalsantosgo@gmail.com)](mailto:anibalsantosgo@gmail.com)
 
-<img src="https://img.shields.io/badge/<handle>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
-
 ### I'm Anibal a Frontend Developer currently living in [Salamanca, Spain 🇪🇸](https://goo.gl/maps/M37ZkZBpbKoKESFz8).
 
 - 🔭 I’m currently studying a **Master's Degree in Web Application Development** at the Universitat Oberta de Catalunya.
@@ -13,8 +11,7 @@
 - 👯 I am looking for collaboration in product design and **modern web** applications.
 - 💬 Ask me about `.html`, `.css`, `.sass`,`.js`,`.vue`,
 
-<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/>
 
