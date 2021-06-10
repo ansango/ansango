@@ -5,7 +5,7 @@
 
 ### I'm Anibal a Frontend Developer currently living in [Salamanca, Spain 🇪🇸](https://goo.gl/maps/M37ZkZBpbKoKESFz8).
 
-### Checkout my [personale resume!](https://anibalsantos-resume.netlify.app/) and if you want to read something about javascript in Spanish i'm writing somer articles in my [blog](https://www.ansango.com/blog)
+### Checkout my [personale resume!](https://anibalsantos-resume.netlify.app/) and if you want to read something about javascript in Spanish, I'm writing some articles in my [blog](https://www.ansango.com/blog)
 
 - 🔭 Studying a **Master's Degree in Web Application Development** at the **Universitat Oberta de Catalunya**.
 - 🌱 Learning **TypeScript**, **Angular**, **React** and **UX/UI**.
