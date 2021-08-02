@@ -9,8 +9,8 @@
 ### What I do:
 
 - 🔭 Studying a **Master's Degree in Web Application Development** at the **Universitat Oberta de Catalunya**.
-- 🌱 Learning **TypeScript**, **Angular**, **Next.js** and **UX/UI**.
-- ⚙️ Working for the **Iberdrola web application** project.
+- 🌱 Learning **TypeScript**, **React**, **Next.js** and **UX/UI**.
+- ⚙️ Working for **Minsait** as Frontend Mid Developer.
 - 👯 Looking for collaboration in product design and **modern web** applications.
 - 💬 Ask me about `frontend`,`css`, `sass`, `js`, `.vue`, `react`
 
