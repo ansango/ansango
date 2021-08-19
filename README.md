@@ -9,7 +9,7 @@
 ### What I do:
 
 - 🔭 Studying a **Master's Degree in Web Application Development** at the **Universitat Oberta de Catalunya**.
-- 🌱 Learning **TypeScript**, **React**, **Next.js** and **UX/UI**.
+- 🌱 Learning **TypeScript**, **React**, **Next.js**, **Jest** and **UX/UI**.
 - ⚙️ Working for **Minsait** as Frontend Mid Developer.
 - 👯 Looking for collaboration in product design and **modern web** applications.
 - 💬 Ask me about `frontend`,`css`, `sass`, `js`, `.vue`, `react`
