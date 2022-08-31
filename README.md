@@ -10,7 +10,7 @@
 
 - :heart: Loving analogue photography, [check out! 😃](https://anibalsantosgomez.com).
 - 🌱 Learning **Pattern Designs**, **Rust**, **Deno/Node**, and some new **Frontend Technologies**.
-- ⚙️ Working at **@innusual** as Frontend Mid Developer.
+- ⚙️ Working at **[@innusual](https://www.innusual.tech/)** as Frontend Mid Developer.
 - 👯 Looking for collaboration in product design and **modern web** applications, and createive content projects 😃.
 - 💬 Ask me about `frontend`,`ui`, `ts`, `js`, `vue`, `react`, `film photography` 
 
