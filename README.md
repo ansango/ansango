@@ -8,11 +8,11 @@
 
 ### What I do:
 
-- 🔭 Studying a **Master's Degree in Web Application Development** at the **Universitat Oberta de Catalunya**.
-- 🌱 Learning **TypeScript**, **React**, **Next.js**, **Jest** and **UX/UI**.
-- ⚙️ Working for **Minsait** as Frontend Mid Developer.
-- 👯 Looking for collaboration in product design and **modern web** applications.
-- 💬 Ask me about `frontend`,`css`, `sass`, `js`, `.vue`, `react`
+- :heart: Loving analogue photography, [check out! 😃](https://anibalsantosgomez.com).
+- 🌱 Learning **Pattern Designs**, **Rust**, **Deno/Node**, and some new **Frontend Technologies**.
+- ⚙️ Working at **@innusual** as Frontend Mid Developer.
+- 👯 Looking for collaboration in product design and **modern web** applications, and createive content projects 😃.
+- 💬 Ask me about `frontend`,`ui`, `ts`, `js`, `vue`, `react`, `film photography` 
 
 ### 🛠️ Some of my skills are: 
 
