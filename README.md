@@ -2,9 +2,9 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ansango)
 
-### I'm Anibal from [Salamanca, Spain 🇪🇸](https://goo.gl/maps/M37ZkZBpbKoKESFz8), Frontend Mid Developer and UI enthusiast. Currently in love ❤️ with React ⚛️ and all its ecosystem 
+### I'm Anibal from [Salamanca, Spain 🇪🇸](https://goo.gl/maps/M37ZkZBpbKoKESFz8), Frontend Mid Developer and UI enthusiast. Currently in love ❤️ with Javascript ecosystem.
 
-### Checkout my [personale resume!](https://anibalsantos-resume.netlify.app/) and if you want to read something about JavaScript in Spanish, I'm writing some articles in my [blog](https://www.ansango.com/blog)
+### Checkout my [personale resume!](https://ansango-cv.vercel.app/)
 
 ### What I do:
 
