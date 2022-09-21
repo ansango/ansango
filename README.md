@@ -59,9 +59,10 @@ Technologies move fast, but I'm always learning and improving my skills. Checkou
 
 ## My stats
 
-![Commits](https://github-readme-stats.vercel.app/api?username=ansango&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
-
-![Codestats](https://github-readme-stats.vercel.app/api/top-langs/?username=ansango&layout=compact&theme=dark&langs_count=7)
+<div style="display: flex; flex-direction: row;">
+  <img style="height: 150px; padding: 0 10px;" src="https://github-readme-stats.vercel.app/api?username=ansango&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide=stars,contribs&hide_border=true&text_bold=false" />
+  <img style="height: 150px; padding: 0 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansango&hide=php,html&layout=compact&theme=react&langs_count=4&hide_border=true" />
+</div>
 
 ## 🖤 Prefer to work with
 
