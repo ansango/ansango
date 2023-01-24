@@ -63,6 +63,8 @@ Technologies move fast, but I'm always learning and improving my skills. Checkou
 
 ![Codestats](https://github-readme-stats.vercel.app/api/top-langs/?username=ansango&hide=php,html&layout=compact&theme=react&langs_count=5&hide_border=true)
 
+![@ansango](https://github-readme-activity-graph.cyclic.app/graph?username=ansango&theme=react-dark)
+
 ## 🖤 Prefer to work with
 
 ![React](https://img.shields.io/badge/react-86d3f7?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)
