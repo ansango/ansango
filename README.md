@@ -10,7 +10,7 @@ Technologies move fast, but I'm always learning and improving my skills. Checkou
 
 - :heart: Loving film photography, [checkout! 😃](https://anibalsantosgomez.com).
 - 🌱 Learning **Pattern Designs**, **Rust**, **Deno/Node**, and some new **Frontend Technologies**.
-- ⚙️ Working at **[@innusual](https://www.innusual.tech/)** as Frontend Consultant.
+- ⚙️ Working at **[@innusual](https://www.innusual.tech/)** as Tech Engineer.
 - 👯 Looking for collaboration in product design and **modern web** applications, and createive content projects 😃.
 - 💬 Ask me about `frontend`,`ui`, `ts`, `js`, `vue`, `react`, `film photography`
 
