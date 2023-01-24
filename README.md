@@ -2,7 +2,7 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ansango)
 
-> I'm Anibal from [Salamanca, Spain 🇪🇸](https://goo.gl/maps/M37ZkZBpbKoKESFz8), Frontend Consultant and UI enthusiast. In love ❤️ with Javascript ecosystem.
+> I'm Anibal from [Salamanca, Spain 🇪🇸](https://goo.gl/maps/M37ZkZBpbKoKESFz8), Tech Engineer and Frontend enthusiast. In love ❤️ with Javascript ecosystem.
 
 Technologies move fast, but I'm always learning and improving my skills. Checkout my [personale resume!](https://ansango-cv.vercel.app/), maybe it's outdated 🙄
 
