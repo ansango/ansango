@@ -1,8 +1,6 @@
 # anibalsantos
 
-Tech Engineer based in [Salamanca, Spain 🇪🇸](https://goo.gl/maps/M37ZkZBpbKoKESFz8) with 5+ years of experience.
-
-My [full resume](https://resume.ansango.com/)
+Tech Engineer based in [Salamanca, Spain 🇪🇸](https://goo.gl/maps/M37ZkZBpbKoKESFz8) with 5+ years of experience. This is my [full resume](https://resume.ansango.com/)
 
 ## What I do
 
