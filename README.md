@@ -53,21 +53,6 @@ Tech Engineer based in [Salamanca, Spain 🇪🇸](https://goo.gl/maps/M37ZkZBpb
 
 ![Figma](https://img.shields.io/badge/figma-f24e1e?style=for-the-badge&logo=figma&logoColor=white&labelColor=101010)
 
-## My stats
-
-![ansango stats](https://github-readme-stats.vercel.app/api?username=ansango&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide=stars,contribs&hide_border=true&text_bold=false)
-
-![Codestats](https://github-readme-stats.vercel.app/api/top-langs/?username=ansango&hide=php,html&layout=compact&theme=react&langs_count=5&hide_border=true)
-
-![@ansango](https://github-readme-activity-graph.cyclic.app/graph?username=ansango&theme=react-dark)
-
-## 🖤 Prefer to work with
-
-![React](https://img.shields.io/badge/react-86d3f7?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)
-![Nextjs](https://img.shields.io/badge/nextjs-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=101010)
-![Tailwindcss](https://img.shields.io/badge/tailwindcss-38b2ac?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=101010)
-![Prisma](https://img.shields.io/badge/prisma-2d3748?style=for-the-badge&logo=prisma&logoColor=white&labelColor=101010)
-
 ## ✉️ Contact?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/ansango/)
