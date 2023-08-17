@@ -7,7 +7,7 @@ Tech Engineer based in [Salamanca, Spain 🇪🇸](https://goo.gl/maps/M37ZkZBpb
 - :heart: Loving [film photography](https://anibalsantosgomez.com).
 - 🌱 Learning **Pattern Designs**, **Rust**, **Deno/Node**, and some new **Frontend Technologies**.
 - ⚙️ Working at **[@innusual](https://www.innusual.tech/)** as Tech Engineer.
-- 👯 Looking for collaboration in product design and **modern web** applications, and createive content projects 😃.
+- 👯 Looking for collaboration in product design, **modern web** applications, and createive content projects 😃.
 - 💬 Ask me about `frontend`,`ui`, `ts`, `js`, `vue`, `react`, `film photography`
 
 ## 🛠️ Some of my skills are
