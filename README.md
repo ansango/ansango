@@ -18,10 +18,11 @@ Senior Tech Engineer based in [Salamanca, Spain 🇪🇸](https://goo.gl/maps/M3
 ![Typescript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)
 
 ![React](https://img.shields.io/badge/react-86d3f7?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)
-![Nextjs](https://img.shields.io/badge/nextjs-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=101010)
+![Nextjs](https://img.shields.io/badge/nextjs-101010?style=for-the-badge&logo=next.js&logoColor=white&labelColor=101010)
 ![Vuejs](https://img.shields.io/badge/vue.js-9afcbc?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=101010)
 ![Nuxtjs](https://img.shields.io/badge/nuxtjs-00c58e?style=for-the-badge&logo=nuxt.js&logoColor=white&labelColor=101010)
 ![Svelte](https://img.shields.io/badge/svelte-ff3e00?style=for-the-badge&logo=svelte&logoColor=white&labelColor=101010)
+![Astro](https://img.shields.io/badge/astro-101010?style=for-the-badge&logo=astro&logoColor=white&labelColor=101010)
 
 ![Sass](https://img.shields.io/badge/sass-cc6699?style=for-the-badge&logo=sass&logoColor=white&labelColor=101010)
 ![Tailwindcss](https://img.shields.io/badge/tailwindcss-38b2ac?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=101010)
