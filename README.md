@@ -1,12 +1,12 @@
 # anibalsantos
 
-Senior Tech Engineer based in [Salamanca, Spain 🇪🇸](https://goo.gl/maps/M37ZkZBpbKoKESFz8) with 5+ years of experience. This is my [full resume](https://resume.ansango.com/)
+Senior Engineer based in [Salamanca, Spain 🇪🇸](https://goo.gl/maps/M37ZkZBpbKoKESFz8).
 
 ## What I do
 
-- :heart: Loving [film photography](https://anibalsantosgomez.com).
-- 🌱 Learning **Pattern Designs**, **Rust**, **Deno/Node**, and some new **Frontend Technologies**.
-- ⚙️ Working at **[@innusual](https://www.innusual.tech/)** as Senior Tech Engineer.
+- :heart: Loving [film photography](https://films.anibalsantosgomez.com/).
+- 🌱 Learning **UX/UI**, **Modern Languages**, and some new **Frontend Technologies**.
+- ⚙️ Working at **[@innusual](https://www.innusual.tech/)** as **Tech Lead**.
 - 👯 Looking for collaboration in product design, **modern web** applications, and createive content projects 😃.
 - 💬 Ask me about `frontend`,`ui`, `ts`, `js`, `vue`, `react`, `film photography`
 
